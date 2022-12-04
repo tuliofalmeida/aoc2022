@@ -5,8 +5,8 @@ I will use this repository is to store my solutions in python for [Advent of Cod
  - [Day 1](https://github.com/tuliofalmeida/aoc2022/blob/main/day1.ipynb) 
  - [Day 2](https://github.com/tuliofalmeida/aoc2022/blob/main/day2.ipynb) 
  - [Day 3](https://github.com/tuliofalmeida/aoc2022/blob/main/day3.ipynb) 
+ - [Day 4](https://github.com/tuliofalmeida/aoc2022/blob/main/day4.ipynb) 
 <!---
- - [Day 4]() 
  - [Day 6]() 
  - [Day 7]() 
  - [Day 8]() 
