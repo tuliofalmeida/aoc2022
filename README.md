@@ -9,3 +9,4 @@ I will use this repository is to store my solutions in python for [Advent of Cod
  - [Day 3](https://github.com/tuliofalmeida/aoc2022/blob/main/day3.ipynb) 
  - [Day 4](https://github.com/tuliofalmeida/aoc2022/blob/main/day4.ipynb) 
  - [Day 5](https://github.com/tuliofalmeida/aoc2022/blob/main/day5.ipynb) (TO FIX - thanks to [Jeffery Frederic](https://github.com/jeff-frederic))
+ - [Day 6](https://github.com/tuliofalmeida/aoc2022/blob/main/day6.ipynb) 
